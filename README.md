@@ -12,9 +12,9 @@ visualized accordingly. Data can be analysed and visualized statewise also.
 4. Active Cases
 5. Total Tests
 
-Data is fetched as a json file using an api from official Indian Goverment Health Department website. Data is fetched 
+Data is fetched as a json file using an api from official Indian Goverment Health Department website. Data is fetched, 
 cleaned and prepared for the visualization. This is the only time consuming part in whole project.
 
-![](img1.jpg)
+<img src="images/bar.jpg">
 
 web app link - https://covid--dashboard-india.herokuapp.com/
