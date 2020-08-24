@@ -15,6 +15,6 @@ visualized accordingly. Data can be analysed and visualized statewise also.
 Data is fetched as a json file using an api from official Indian Goverment Health Department website. Data is fetched, 
 cleaned and prepared for the visualization. This is the only time consuming part in whole project.
 
-<img src="images/bar.jpg">
+![bar chart](images/bar.JPG)
 
 web app link - https://covid--dashboard-india.herokuapp.com/
